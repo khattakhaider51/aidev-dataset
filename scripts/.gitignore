@@ -1,0 +1,20 @@
+# Data files (large)
+data/*.jsonl
+data/*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Analysis results
+analysis_results.json
